@@ -39,3 +39,7 @@ After script has been completed there appear 2 resulting fils:
   ```console
   data/dataset_predict.csv
   ```
+  
+### Output result example
+
+![Terminal](output_example_snapshot.png "Terminal")
