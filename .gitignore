@@ -2,3 +2,4 @@
 venv/
 data/dataset_predict.csv
 __pycache__/*
+*.odt
