@@ -42,4 +42,4 @@ After script has been completed there appear 2 resulting fils:
   
 ### Output result example
 
-![Terminal](output_example_snapshot.png "Terminal")
+![Terminal](./output_example_snapshot.png "Terminal")
